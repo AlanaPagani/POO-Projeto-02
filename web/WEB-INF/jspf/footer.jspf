@@ -1,0 +1,12 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<link rel="stylesheet" type="text/css" href="CSS/main.css">
+<footer>
+    <div class="rodape">
+        <hr>
+        <p><h4>Autores:</h4> <p/>
+        <p><h5>Alana Pagani Barros</h5>
+        <h5>Marcos Paulo da Rocha Moura Miúdo</h5>
+        <h5>Yan Matheus Iamamura Andrade</h5></p>
+    </div>
+</footer>

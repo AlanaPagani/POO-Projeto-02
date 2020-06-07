@@ -1,0 +1,19 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<link rel="stylesheet" type="text/css" href="../../CSS/main.css">
+<header>
+    <div class="nav">
+        <div class="menu">
+            <ul>
+                <center>
+                <li><a href="index.jsp">Home</a></li>
+                <li>///////////</li>
+                <li><a href="cliente/lista.jsp">Lista - Clientes</a></li>
+                <li>///////////</li>
+                <li><a href="fornecedor/lista.jsp">Lista - Fornecedores</a></li>
+                <li>///////////</li>
+                <center>
+            </ul>
+        </div>
+    </div>
+</header>
